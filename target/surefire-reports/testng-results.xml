@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="5400" started-at="2022-01-22T17:50:08Z" finished-at="2022-01-22T17:50:13Z">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="5400" started-at="2022-01-22T17:50:08Z" finished-at="2022-01-22T17:50:13Z">
+      <class name="sel_auto.demo">
+        <test-method status="PASS" signature="textverify()[pri:0, instance:sel_auto.demo@4439f31e]" name="textverify" duration-ms="5365" started-at="2022-01-22T17:50:08Z" finished-at="2022-01-22T17:50:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- textverify -->
+      </class> <!-- sel_auto.demo -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
